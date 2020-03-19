@@ -16,6 +16,7 @@
 
 </header>
 <div>
+Salut LPMI je viens de modifier se fichier 
 <ul>
   <li><a class="active" href="index.php">Accueil</a></li>
   <li><a href="planning.php">Planning </a></li>
